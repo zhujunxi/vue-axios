@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhujunxi/vue-axios/issues"
   },
-  "homepage": "https://github.com/zhujunxi/vue-axios#readme"
+  "homepage": "https://github.com/zhujunxi/vue-axios#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }

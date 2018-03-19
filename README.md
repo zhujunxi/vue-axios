@@ -3,7 +3,7 @@ A wrapper for integrating axios to Vuejs
 
 ## Install
 ```
-npm install --save axios vue-axios-wrapper
+npm install --save vue-axios-wrapper
 ```
 
 And in your entry file:
