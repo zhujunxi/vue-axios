@@ -1,0 +1,19 @@
+{
+  "name": "vue-axios-wrapper",
+  "version": "1.0.1",
+  "description": "A wrapper for integrating axios to Vuejs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhujunxi/vue-axios.git"
+  },
+  "author": "zhujunxi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhujunxi/vue-axios/issues"
+  },
+  "homepage": "https://github.com/zhujunxi/vue-axios#readme"
+}
